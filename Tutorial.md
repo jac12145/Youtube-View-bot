@@ -1,1 +1,1 @@
-Click [Src](Src.js) and then copy all the code in that into a text editor 
+Click [Src](Src.js) and then copy all the code in that into a text editor and then inside the quotation marks put your youtube video link there. then copy all of that code and create an basic html structure, create script tags and then within them paste your javascript code inside the script tags save that as something like cuteCat.html and send it to your intended victim if they 
