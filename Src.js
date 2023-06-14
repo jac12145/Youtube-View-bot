@@ -1,3 +1,1 @@
-while(1==1){
-  window.open("")
-};            
+window.open("")          
